@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+02 Core Modules/
+03 Express/
+04 Authentication/
+05 PostgreSQL/
+06 Prisma/
+07 MongoDB/
+08 APIs/
+09 Security/
+10 Deployment/
